@@ -20,8 +20,8 @@ This project implements an ELT (Extract, Load, Transform) pipeline using Python 
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/kajalmahajan23/ELT_Pipeline_Python_Snowflake.git
+    cd ELT_Pipeline_Python_Snowflake
     ```
 
 2. Install the required Python packages:
